@@ -1,3 +1,3 @@
-# github-automaton-testd
+# github-automaton-test
 A test repo
  
